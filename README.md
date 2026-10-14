@@ -1,5 +1,8 @@
 # ProjectPos_2026
 
+> Software Engineering Practice — Analysis and Design of a PoS System
+> Author: 林晨鑫 (Lin Chenxin) · NUIST ID 202383890014 · SETU ID 20109984
+
 A Point-of-Sale (POS) system for a small supermarket, built using Object-Oriented Analysis and Design (OOAD) techniques.
 
 ## Features
